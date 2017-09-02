@@ -16,4 +16,4 @@ This is a test again
 
 please fork this repository and then issue Pull Requests for review.
 
-Git.Training.  2017
+Git.Training.  2017 All right reserved
