@@ -12,3 +12,5 @@ This is a test again
 ## How To Contribute
 
 Sample website with plenty of files for demos
+
+Git.Training.  2017
